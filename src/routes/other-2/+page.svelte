@@ -61,7 +61,7 @@
 
 <div class="desktop-1">
     <div class="title">
-        <span class="t">병장 정민영</span>
+        <span class="t">병장 정민영의</span>
         <span class="b">좆되버린 남은 군생활</span>
     </div>
     <span class="remain">{remainText} 남았습니다</span>
