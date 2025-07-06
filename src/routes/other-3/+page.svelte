@@ -1,6 +1,6 @@
 <script lang="ts">
     let today = new Date();
-    let endDate = new Date("2026-08.02T00:00:00+09:00"); // Replace with your end date
+    let endDate = new Date("2026-08-02T00:00:00+09:00"); // Replace with your end date
     let remainText = "";
     let militaryTime = "";
 
